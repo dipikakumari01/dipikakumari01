@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Dipika Kumari
 
-<!--
-**dipikakumari01/dipikakumari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Student | Cybersecurity Enthusiast | Python Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+I am a B.Tech student specializing in **Computer Science & Design**, with a passion for **cybersecurity and Python development**. I am actively involved in projects that merge **technology with problem-solving**.  
+
+---
+
+## 🛠 Skills
+- **Programming & Development:** Python, HTML, CSS, Git, GitHub  
+- **Cybersecurity:** Networking Basics, Ethical Hacking, Cryptography  
+- **Other:** Content Creation, Branding, UI/UX Projects  
+
+---
+
+## 🏆 Achievements
+- ✅ GDG **Cybersecurity Lead**  
+- ✅ Cyber Security Basic Concept Exam (Cyber Security CoE)  
+- ✅ Python Crash Course (Google)  
+- ✅ Ethical Hacking (Simplilearn)  
+- ✅ Adobe Animate (Udemy)  
+
+---
+
+## 📂 Featured Projects
+- **To-Do List App** – Python GUI project  
+- **Cybersecurity Mini Projects** – Password Strength Checker, Network Scanner  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipikakumari01&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipikakumari01&layout=compact&theme=default)  
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](your-link-here)  
+
+---
+
+✨ *“Combining technology and cybersecurity to create impactful solutions.”*
